@@ -447,7 +447,7 @@ To generate a network diagram, send a POST request to `http://127.0.0.1:8081/api
 }
 ```
 
-[[example diagram](https://raw.githubusercontent.com/SimpleMethod/Network-Visualization/67c6305438f0fc64a07a159fbae1d89e81b03474/example.svg)
+![example diagram](https://raw.githubusercontent.com/SimpleMethod/Network-Visualization/67c6305438f0fc64a07a159fbae1d89e81b03474/example.svg)
 
 ## 🎨 Customization Options
 
