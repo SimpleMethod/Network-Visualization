@@ -481,7 +481,7 @@ This project is licensed under the MIT License - see the LICENSE for details.
 
 ## 📞 Support
 
-If you encounter any problems or have any questions, please open an issue on this repository or contact our support team at support@networkvisualization.com.
+If you encounter any problems or have any questions, please open an issue on this repository
 
 ---
 
