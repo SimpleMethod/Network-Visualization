@@ -477,7 +477,7 @@ The API returns an SVG representation of your network diagram, which you can eas
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the LICENSE for details.
+This project is licensed under the Apache-2.0 license - see the LICENSE for details.
 
 ## 📞 Support
 
